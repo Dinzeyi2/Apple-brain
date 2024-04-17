@@ -3,20 +3,20 @@ import { ArrowRight } from 'lucide-react'
 
 const exampleMessages = [
   {
-    heading: 'What specific marketing strategies has Apple employed to differentiate its brand from competitors?',
-    message: 'What specific marketing strategies has Apple employed to differentiate its brand from competitors ?'
+    heading: 'How has Apple marketed itself differently from competitors?',
+    message: 'How has Apple marketed itself differently from competitors?
   },
   {
-    heading: 'How does Apple integrate psychological elements into their product advertising to enhance consumer appeal?',
-    message: 'How does Apple integrate psychological elements into their product advertising to enhance consumer appeal?'
+    heading: 'How does Apple use psychology in ads to attract customers?',
+    message: 'How does Apple use psychology in ads to attract customers?'
   },
   {
-    heading: 'What impact have Apple marketing campaians had on its alobal brand perception and consumer loyalty?',
-    message: 'What impact have Apple marketing campaians had on its alobal brand perception and consumer loyalty?'
+    heading: 'How do Apple ads affect its global brand and customer loyalty?',
+    message: 'How do Apple ads affect its global brand and customer loyalty?'
   },
   {
-    heading: 'Can you explain how Apple marketing strategies differ from other tech companies?',
-    message: 'Can you explain how Apple marketing strategies differ from other tech companies?'
+    heading: 'Explain Apple marketing strategies versus other tech companies.',
+    message: 'Explain Apple marketing strategies versus other tech companies.'
   }
 ]
 export function EmptyScreen({
