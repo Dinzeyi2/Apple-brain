@@ -3,20 +3,20 @@ import { ArrowRight } from 'lucide-react'
 
 const exampleMessages = [
   {
-    heading: 'Why is Nvidia growing rapidly?',
-    message: 'Why is Nvidia growing rapidly?'
+    heading: 'What specific marketing strategies has Apple employed to differentiate its brand from competitors?',
+    message: 'What specific marketing strategies has Apple employed to differentiate its brand from competitors ?'
   },
   {
-    heading: 'Is the Apple Vision Pro worth buying?',
-    message: 'Is the Apple Vision Pro worth buying?'
+    heading: 'How does Apple integrate psychological elements into their product advertising to enhance consumer appeal?',
+    message: 'How does Apple integrate psychological elements into their product advertising to enhance consumer appeal?'
   },
   {
-    heading: 'How does the Vercel AI SDK work?',
-    message: 'How does the Vercel AI SDK work?'
+    heading: 'What impact have Apple marketing campaians had on its alobal brand perception and consumer loyalty?',
+    message: 'What impact have Apple marketing campaians had on its alobal brand perception and consumer loyalty?'
   },
   {
-    heading: 'Tesla vs Rivian',
-    message: 'Tesla vs Rivian'
+    heading: 'Can you explain how Apple marketing strategies differ from other tech companies?',
+    message: 'Can you explain how Apple marketing strategies differ from other tech companies?'
   }
 ]
 export function EmptyScreen({
