@@ -7,12 +7,12 @@ const exampleMessages = [
     message: 'How has Apple marketed itself differently from competitors?
   },
   {
-    heading: 'How does Apple use psychology in ads to attract customers?',
-    message: 'How does Apple use psychology in ads to attract customers?'
+    heading: 'How does Apple use psychology ads to attract customers?',
+    message: 'How does Apple use psychology  ads to attract customers?'
   },
   {
-    heading: 'How do Apple ads affect its global brand and customer loyalty?',
-    message: 'How do Apple ads affect its global brand and customer loyalty?'
+    heading: 'How  Apple ads affect its global brand and customer loyalty?',
+    message: 'How  Apple ads affect its global brand and customer loyalty?'
   },
   {
     heading: 'Explain Apple marketing strategies versus other tech companies.',
