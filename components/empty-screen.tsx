@@ -16,7 +16,7 @@ const exampleMessages = [
   },
   {
     heading: 'Explain Apple marketing strategies versus other tech companies',
-    message: 'Explain Apple marketing strategies versus other tech companies.'
+    message: 'Explain Apple marketing strategies versus other tech companies'
   }
 ]
 export function EmptyScreen({
