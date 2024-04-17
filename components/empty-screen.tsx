@@ -7,8 +7,8 @@ const exampleMessages = [
     message: 'How has Apple marketed itself differently from competitors?
   },
   {
-    heading: ' Can you explain how Apple marketing strategies differ from other tech companies?',
-    message: ' Can you explain how Apple marketing strategies differ from other tech companies?'
+    heading: ' How  Apple ads affect its global brand and customer loyalty?',
+    message: ' How  Apple ads affect its global brand and customer loyalty?'
   },
   {
     heading: 'How do Apple ads impact its brand and loyalty?',
