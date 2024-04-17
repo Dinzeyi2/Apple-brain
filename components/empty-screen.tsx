@@ -11,8 +11,8 @@ const exampleMessages = [
     message: 'How does Apple use psychology  ads to attract customers?'
   },
   {
-    heading: 'How  Apple ads affect its global brand and customer loyalty?',
-    message: 'How  Apple ads affect its global brand and customer loyalty?'
+    heading: 'How do Apple ads impact its brand and loyalty?',
+    message: 'How do Apple ads impact its brand and loyalty?'
   },
   {
     heading: 'Explain Apple marketing strategies versus other tech companies',
