@@ -15,7 +15,7 @@ const exampleMessages = [
     message: 'How  Apple ads affect its global brand and customer loyalty?'
   },
   {
-    heading: 'Explain Apple marketing strategies versus other tech companies.',
+    heading: 'Explain Apple marketing strategies versus other tech companies',
     message: 'Explain Apple marketing strategies versus other tech companies.'
   }
 ]
