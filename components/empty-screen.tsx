@@ -2,22 +2,7 @@ import { Button } from '@/components/ui/button'
 import { ArrowRight } from 'lucide-react'
 
 const exampleMessages = [
-  {
-    heading: 'How has Apple marketed itself differently from competitors?',
-    message: 'How has Apple marketed itself differently from competitors?
-  },
-  {
-    heading: ' How  Apple ads affect its global brand and customer loyalty?',
-    message: ' How  Apple ads affect its global brand and customer loyalty?'
-  },
-  {
-    heading: 'How do Apple ads impact its brand and loyalty?',
-    message: 'How do Apple ads impact its brand and loyalty?'
-  },
-  {
-    heading: 'Explain Apple marketing strategies versus other tech companies',
-    message: 'Explain Apple marketing strategies versus other tech companies'
-  }
+  
 ]
 export function EmptyScreen({
   submitMessage,
