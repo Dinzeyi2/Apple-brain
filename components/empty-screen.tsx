@@ -4,7 +4,7 @@ import { ArrowRight } from 'lucide-react'
 const exampleMessages = [
   {
     heading: 'How has Apple marketed itself differently from competitors?',
-    message: 'How has Apple marketed itself differently from competitors?
+    message: 'How has Apple marketed itself differently from competitors?'
   },
   {
     heading: ' How  Apple ads affect its global brand and customer loyalty?',
