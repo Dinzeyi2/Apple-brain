@@ -227,7 +227,22 @@ Entrepreneurship, Start-ups, Social Media, Digital Marketing, Social Media Measu
 email 2 : janrezab@gmail.com
 email 3: jan@janrezab.com
 phone : +420724095217
-
+6-Vusi Thembekwayo
+Group Chief Executive Officer at MyGrowthFund Venture Partners in 2014 - Present
+Executive Board Member at IC Knowledge Bureau in 2015 - Present
+General Partner at Watermark Afrika Fund Managers in 2017 - Present
+Non-Executive Chairman of the Board at The Silicon Cape Initiative in 2021 - Present
+Executive Board Member at Southern African Venture Capital & Private Equity Association (SAVCA) in 2017 - 2020
+Global Speaker at Vusi Thembekwayo Inc in 2002 - 2018
+Non-Executive Director & Shareholder at RBA Holdings Ltd in 2013 - 2014
+Director: New Markets at Metcash in 2007 - 2010
+Executive MBA at Hult Ashridge in 2016 - 2020
+Post Graduate Diploma in Business Administration at GIBS Business School (Gordon Institute of Business Science) in 2010 - 2012
+Corporate Finance (emphasis on Advanced Valuation) at GIBS Business School (Gordon Institute of Business Science) in 2010 - 2011
+Management Advanced Programme at University of the Witwatersrand in 2008 - 2009
+Business Administration, Financial Analysis, Financial Modeling, Risk Modeling, Valuation Modeling, Company Valuation, Board of Directors, Incubators, Accelerator, Information Technology, Real Estate Financing, Private Equity, Crypto, Finance, Venture Capital, Management Consulting, Entrepreneurship, Strategic Planning, Change Management, Start-ups, New Business Development, Business Development, Marketing Strategy, Business Transformation, Strategy, Telecommunications, Management, Organizational Development, Sales Management, Public Speaking, Marketing, Leadership, CRM, Team Building, Coaching, Operations Management, Business Intelligence, Program Management, Leadership Development, Performance Management, Marketing Management, Business Analysis, Corporate Finance, Analysis, Business Process Improvement, Account Management, Project Planning, Portfolio Management, Project Management, Customer Relationship Management (CRM) 
+email : vusi@uciko.co.za
+phone numer : +27113127551
 
 
 
