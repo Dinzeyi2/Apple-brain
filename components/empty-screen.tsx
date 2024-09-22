@@ -3,20 +3,20 @@ import { ArrowRight } from 'lucide-react'
 
 const exampleMessages = [
   {
-    heading: 'How has Apple marketed itself differently from competitors?',
-    message: 'How has Apple marketed itself differently from competitors?'
+    heading: 'Give me jensen  huang  contact  information ',
+    message: 'Give me jensen  huang  contact  information '
   },
   {
-    heading: ' How  Apple ads affect its global brand and customer loyalty?',
-    message: ' How  Apple ads affect its global brand and customer loyalty?'
+    heading: ' I  Have  an ai startup and i need  an investor ',
+    message: ' I  Have  an ai startup and i need  an investor '
   },
   {
-    heading: 'How do Apple ads impact its brand and loyalty?',
-    message: 'How do Apple ads impact its brand and loyalty?'
+    heading: 'I  Have  a real state  startup and i need  an investor',
+    message: 'I  Have  a real state  startup and i need  an investor'
   },
   {
-    heading: 'Explain Apple marketing strategies versus other tech companies',
-    message: 'Explain Apple marketing strategies versus other tech companies'
+    heading: 'What  is  the best investor for my  bakery companies',
+    message: 'What  is  the best investor for my  bakery companies'
   }
 ]
 export function EmptyScreen({
