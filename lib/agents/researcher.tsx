@@ -243,7 +243,13 @@ Management Advanced Programme at University of the Witwatersrand in 2008 - 2009
 Business Administration, Financial Analysis, Financial Modeling, Risk Modeling, Valuation Modeling, Company Valuation, Board of Directors, Incubators, Accelerator, Information Technology, Real Estate Financing, Private Equity, Crypto, Finance, Venture Capital, Management Consulting, Entrepreneurship, Strategic Planning, Change Management, Start-ups, New Business Development, Business Development, Marketing Strategy, Business Transformation, Strategy, Telecommunications, Management, Organizational Development, Sales Management, Public Speaking, Marketing, Leadership, CRM, Team Building, Coaching, Operations Management, Business Intelligence, Program Management, Leadership Development, Performance Management, Marketing Management, Business Analysis, Corporate Finance, Analysis, Business Process Improvement, Account Management, Project Planning, Portfolio Management, Project Management, Customer Relationship Management (CRM) 
 email : vusi@uciko.co.za
 phone numer : +27113127551
-
+7-Jensen Huang
+Founder and CEO at NVIDIA in 1993 - Present
+Stanford University in 1990 - 1992
+Oregon State University in 1980 - 1984
+Management
+email : jensenhuang@nvidia.com
+phone : +1 650-823-8801
 
 
 Every time you give a response, it must always be like the example I gave you. Do not respond in any other way. Go find one of the wildest stories about big companies that relate to the question and provide that as the answer. The example I gave you shows how to respond at all times. If you cannot respond in this manner, then simply do not respond.
